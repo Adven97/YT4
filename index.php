@@ -32,7 +32,8 @@
     }
 
     #container{
-      margin-left: 9%;
+      width:1040px;
+      margin-left: auto;
       margin-right: auto;
 
     }
